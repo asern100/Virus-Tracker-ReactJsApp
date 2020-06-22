@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Special Thank for AdrianHajdin
+tuto (https://www.youtube.com/watch?v=khJlrj3Y6Ls)
+projectLink (https://github.com/adrianhajdin/project_corona_tracker)
 
 ## Available Scripts
 
